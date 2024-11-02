@@ -22,7 +22,7 @@ int main()
     int select;
 
         printf("***manu***");
-        printf("\n1.insert\n2.delete\n3.exit\n:");
+        printf("\n1.insert\n2.display\n3.exit\n:");
         scanf("%d",&select);
 
             
@@ -32,7 +32,10 @@ int main()
                 case 1:
                     insert();
                     break;
-
+                
+                case 2:
+                //    display();
+                    break;
                 default:
                     break;
 
