@@ -1,4 +1,6 @@
 /*
+	Breadth First Search (BFS)
+	
 	 |--(1)--(3)    
 	(0)      |
 	 |--(2)--(4)
